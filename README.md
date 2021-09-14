@@ -1,1 +1,7 @@
-# dotfiles
+## `⚙️ dotfiles`
+
+```
+configuration files for 
+👉 bash
+👉 vscode
+```
