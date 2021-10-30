@@ -175,3 +175,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# # https://raw.githubusercontent.com/ChrisTitusTech/ArchTitus/main/.bashrc
+# source ~/.fancy-bash-promt.sh
